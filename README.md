@@ -22,4 +22,4 @@
 
 [twitter]: 
 [instagram]: 
-[linkedin]: (https://www.linkedin.com/in/michaiah-craig-4a4541254/)https://www.linkedin.com/in/michaiah-craig-4a4541254/
+[linkedin]: (https://www.linkedin.com/in/michaiah-craig-4a4541254/)
