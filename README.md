@@ -2,7 +2,7 @@
 <h2>Baseline Guides:</h2>
 - <b>Virtual Machines</b>
 
-  - [Setting up a Virtual Machine using Microsoft Azure](https://github.com/v9-6kko/Introduction-to-Azure)
+  - [Setting up a Virtual Machine using Microsoft Azure](https://github.com/v9-6kko/Introduction-to-Azure.)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
